@@ -1,0 +1,40 @@
+﻿@using EP_System_Test.Data.ViewModels
+@model LoginVM;
+
+@{
+
+    ViewData["Title"] = "Log in to your account";
+    Layout = "_LoginLayout";
+}
+
+<body>
+    <div class="wrapper">
+        <img src="~/assets/images/img/3768034.jpg" />
+        <h1>Welcome Back!</h1>
+     @*    <p>
+            We assist you to successfully complete
+            extracurricular and practical subjects.
+        <p> *@
+            <br><br>
+            <form asp-action="Login" >
+                <div asp-validation-summary="ModelOnly"></div>
+
+                <input asp-for="EmailAddress" type="email" placeholder="Email" />
+                <span asp-validation-for="EmailAddress "></span>
+
+                <input asp-for=Password type="password" placeholder="Password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+                
+                <div class="form-group">
+                <input class="btn btn-success btn-lg btn-block" type="submit" value="Log in" />
+                </div>
+            
+            </form>
+
+
+
+    </div>
+    
+
+</body>
+    

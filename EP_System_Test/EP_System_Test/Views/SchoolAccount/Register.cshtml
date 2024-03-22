@@ -1,0 +1,51 @@
+﻿@using EP_System_Test.Data.ViewModels
+@model SchoolRegisterVM;
+
+@{
+
+    ViewData["Title"] = "Log in to your account";
+    Layout = "_LoginLayout";
+}
+
+<body>
+    <div class="wrapper">
+        <h1>Let’s Get Started!</h1>
+        @*     <p style="font-size: small;">
+        We assist you to successfully complete
+        extracurricular and practical subjects.
+        <p> *@
+        <br><br>
+        <form asp-action="Register">
+            <div asp-validation-summary="ModelOnly"></div>
+          
+            <input asp-for=SchoolName type="text" placeholder="School" />
+            <span asp-validation-for="SchoolName" class="text-danger"></span>
+
+
+            <input asp-for=EmailAddress type="email" placeholder="Email" />
+            <span asp-validation-for="EmailAddress" class="text-danger"></span>
+
+            <input asp-for="ConfirmEmail" type="text" placeholder="Confirm Email" />
+            <span asp-validation-for="ConfirmEmail" class="text-danger"></span>
+
+            <input asp-for=Password type="password" placeholder="Passsword" />
+            <span asp-validation-for="Password" class="text-danger"></span>
+
+            <input asp-for=ConfirmPassword type="password" placeholder="Confirm Password" />
+            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            <div class="form-group">
+      
+
+                <input class="btn btn-success btn-lg btn-block" type="submit" value="Register" />
+
+      
+                </div>
+      
+                <a class="btn btn-light btn-lg btn-block" asp-controller="Home" asp-action="Index">Cancel</a>
+                 
+             </form>
+
+    
+    </div>
+
+</body>

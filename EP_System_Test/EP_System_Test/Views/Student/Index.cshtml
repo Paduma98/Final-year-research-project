@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Students>
+@{
+    ViewData["Title"] = "List of Students";
+    
+    
+}
+ 
+
+        <link href="~/studentassets/assets/style.css" rel="stylesheet" / >
+        <!-- ...............Font Awesome Link................. -->
+        <link href="~/studentassets/assets/fontawesome-free-6.3.0-web/css/all.css" rel="stylesheet" / >
+        <!-- ...............Swiper Slider Link.................. -->
+        <link href="~/studentassets/assets/swiper/swiper-bundle.min.css" rel="stylesheet" / >
+
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="Man col-4">
+            <div class="card__content">
+                <div class="swiper-wrapper">
+                    <article class="card__article swiper-slide">
+                        <div class="card__image">
+                            <img src="~/landingpage/assets/images/img/599363.png" />
+                            <div class="card__shadow"></div>
+                        </div>
+
+                        <div class="card__data">
+                            <h3 class="card__name">First Name : @item.FirstName</h3>
+                            <h3 class="card__name">Last Name : @item.Last_Name</h3>
+                            <h3 class="card__name">Last Name : @item.Stu_Grade</h3>
+                            
+                            <div class="VM">
+                                @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                                {
+                                    <a asp-action="Edit" class="card__button2" asp-route-id="@item.Id">Edit</a>
+                                    <a asp-action="Details" asp-route-id="@item.Id" class="card__button">Show Details</a>
+
+                                    <a asp-action="Delete" asp-route-id="@item.Id" class="card__button3">Delete</a>
+                                }
+                                @if (User.Identity.IsAuthenticated && User.IsInRole("School"))
+                                {
+
+                                    <a asp-action="Edit" class="card__button2" asp-route-id="@item.Id">Edit</a>
+                                    <a asp-action="Details" asp-route-id="@item.Id" class="card__button">Show Details</a>
+
+                                    <a asp-action="Delete" asp-route-id="@item.Id" class="card__button3">Delete</a>
+                                }
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </div>
+    
+    }
+    <div class="row p-10">     </div>
+    <div class="row p-10">     </div>
+    @await Html.PartialAsync("_CreateItem","Student")
+</div>
+

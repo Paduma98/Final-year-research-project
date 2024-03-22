@@ -1,0 +1,222 @@
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\EP_System_Test.exe
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\EP_System_Test.deps.json
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\EP_System_Test.runtimeconfig.json
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\EP_System_Test.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\EP_System_Test.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\ref\EP_System_Test.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\EP_System_Test.pdb
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\EP_System_Test.Views.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\EP_System_Test.Views.pdb
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.AssemblyInfo.cs
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\staticwebassets\EP_System_Test.StaticWebAssets.Manifest.cache
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\staticwebassets\EP_System_Test.StaticWebAssets.xml
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\scopedcss\bundle\EP_System_Test.styles.css
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.TagHelpers.input.cache
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.TagHelpers.output.cache
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.RazorCoreGenerate.cache
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.Views.pdb
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\ref\EP_System_Test.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.pdb
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.genruntimeconfig.cache
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.csproj.CopyComplete
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\School\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Teacher\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Sports\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\ExtraCurricular\Index.cshtml.g.cs
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\School\Create.cshtml.g.cs
+C:\Users\Admin\source\repos\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Student\Create.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\appsettings.Development.json
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\appsettings.json
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\EP_System_Test.StaticWebAssets.xml
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\EP_System_Test.exe
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\EP_System_Test.deps.json
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\EP_System_Test.runtimeconfig.json
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\EP_System_Test.runtimeconfig.dev.json
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\EP_System_Test.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\EP_System_Test.pdb
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\EP_System_Test.Views.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\EP_System_Test.Views.pdb
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Humanizer.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.csproj.AssemblyReference.cache
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.AssemblyInfoInputs.cache
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.AssemblyInfo.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.csproj.CoreCompileInputs.cache
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.RazorAssemblyInfo.cache
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.RazorAssemblyInfo.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\scopedcss\bundle\EP_System_Test.styles.css
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\staticwebassets\EP_System_Test.StaticWebAssets.Manifest.cache
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\staticwebassets\EP_System_Test.StaticWebAssets.Pack.cache
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\staticwebassets\msbuild.EP_System_Test.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\staticwebassets\msbuild.build.EP_System_Test.props
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EP_System_Test.props
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EP_System_Test.props
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.TagHelpers.input.cache
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.TagHelpers.output.cache
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.RazorCoreGenerate.cache
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\ExtraCurricular\Index.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\School\Create.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\School\Index.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Sports\Index.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Student\Create.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.RazorTargetAssemblyInfo.cache
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.RazorTargetAssemblyInfo.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.Views.pdb
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.csproj.CopyComplete
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\refint\EP_System_Test.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.pdb
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\EP_System_Test.genruntimeconfig.cache
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\ref\EP_System_Test.dll
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Teacher\Create.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Sports\Create.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Post\Create.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Post\Index.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\School\Edit.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\School\Delete.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Student\Edit.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Teacher\Details.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Teacher\Edit.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Shared\_CreateItem.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Student\Details.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Shared\Index.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Test\Index.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\ExtraCurricular\Create.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\School\Index1.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\School\Details.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Teacher\Delete.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Teacher\Index.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Post\Delete.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Post\Details.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Post\Edit.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Account\Loginas.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Account\Registeras.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Account\RegisterCompleted.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Account\Users.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\SchoolAccount\Login.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\SchoolAccount\Loginas.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\SchoolAccount\Register.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\SchoolAccount\Registeras.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\SchoolAccount\RegisterCompleted.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\SchoolAccount\Users.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\StudentAccount\Login.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\StudentAccount\Loginas.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\StudentAccount\Register.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\StudentAccount\Registeras.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\StudentAccount\RegisterCompleted.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\StudentAccount\Users.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\TeacherAccount\Login.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\TeacherAccount\Loginas.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\TeacherAccount\Register.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\TeacherAccount\Registeras.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\TeacherAccount\RegisterCompleted.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\TeacherAccount\Users.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Account\AdminDashboard.cshtml.g.cs
+C:\Paduma Kaputa Final Year Project\Phase 01_20_Oct\EP_System_Test\EP_System_Test\EP_System_Test\obj\Debug\net5.0\Razor\Views\Shared\_Identity.cshtml.g.cs

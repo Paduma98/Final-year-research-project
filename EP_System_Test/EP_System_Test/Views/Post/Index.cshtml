@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Post>
+@{
+    ViewData["Title"] = "List of Posts";
+    Layout = null;
+}
+
+
+<link href="~/studentassets/assets/style.css" rel="stylesheet" />
+<!-- ...............Font Awesome Link................. -->
+<link href="~/studentassets/assets/fontawesome-free-6.3.0-web/css/all.css" rel="stylesheet" />
+<!-- ...............Swiper Slider Link.................. -->
+<link href="~/studentassets/assets/swiper/swiper-bundle.min.css" rel="stylesheet" />
+
+
+<div class="row">
+    <div class="row p-10">     </div>
+    @foreach (var item in Model)
+    {
+       
+        <div class="Man col-4">
+            <div class="card__content">
+                <div class="swiper-wrapper">
+                    <article class="card__article swiper-slide">
+                        <div class="card__image">
+                            <img src="~/studentassets/assets/images/img/f4.jpg" />
+                            <div class="card__shadow"></div>
+                        </div>
+
+                        <div class="card__data">
+                            <h3 class="card__name">@item.Title</h3>
+                            <p class="card__description">
+                               @item.Description
+                            </p>
+                            <div class="VM">
+
+                                <a asp-action="Edit" class="card__button2" asp-route-id="@item.Id">Edit</a>
+                                <a asp-action="Details" asp-route-id="@item.Id" class="card__button">Show Details</a>
+
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="card__button3">Delete</a>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </div>
+        <div class="row p-10">     </div>
+
+    }
+   
+    <div class="row p-10">     </div>
+    @await Html.PartialAsync("_CreateItem","School")
+</div>
+

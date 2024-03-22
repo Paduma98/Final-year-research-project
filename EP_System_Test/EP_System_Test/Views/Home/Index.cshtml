@@ -1,0 +1,82 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>(Social Book)Responsive social media Website</title>
+
+    <!-- .................CUSTOM CSS LINK................. -->
+    
+    
+    <link href="~/assets/style.css" rel="stylesheet" />
+    <!-- ...............Font Awesome Link................. -->
+   
+    
+    <link href="~/assets/fontawesome-free-6.3.0-web/css/all.css" rel="stylesheet" />
+    <!-- ...............Swiper Slider Link.................. -->
+    <link href="~/assets/swiper/swiper-bundle.min.css" rel="stylesheet" />
+</head>
+<body>
+
+
+    <!-- ...................Start Navbar................... -->
+    <nav>
+        <div class="container nav-container">
+            <div class="logo">
+               @*  <img src="Assets/images/img/logo 2.png" alt=""> *@
+                <img src="~/assets/images/img/logo 2.png" />
+            </div>
+
+
+            <div class="log-in">
+                
+                <a asp-controller="Account" asp-action="Loginas" class="btn btn-primary mini-button">Log In</a>
+            </div>
+        </div>
+    </nav>
+    <!-- ...................end Navbar................... -->
+    <!-- ...................Start Main Section................... -->
+    <main>
+        <div class="centered-content">
+            <div class="picture">
+                <img src="~/assets/images/img/pict_large.jpg" />
+            </div>
+            <br>
+
+            <h1>Welcome to EP System - Empowering Education in Sri Lanka</h1>
+            <p>
+                At EP System, we're on a mission to transform education in Sri Lanka. Our digital platform is designed to bridge educational disparities, providing students with opportunities they deserve.
+            </p>
+            <p>
+                In a country where some schools lack resources and teachers for extracurricular and practical subjects, our platform offers a solution. We connect students from schools with limited facilities to schools with the expertise and resources they need.
+            </p>
+            <p>
+                With EP System, every child in Sri Lanka can explore, learn, and excel beyond traditional academic boundaries. We're here to ensure that no talent goes unnoticed and no interest goes unexplored.
+            </p>
+            <p>
+                Join us in revolutionizing education in Sri Lanka. Together, we can empower the next generation.
+            </p>
+        </div>
+
+
+    </main>
+
+
+
+
+
+
+
+    <!-- ...................Swiper JS Link.................. -->
+ 
+    
+    <script src="~/assets/swiper/swiper-bundle.min.js"></script>
+    <!-- ...................Custom JS Link.................. -->
+
+    <script src="~/assets/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,115 @@
+﻿@model NewTeachersVM
+@{
+    ViewData["Title"] = "Create a Teacher Profile";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width = device-width, initial-scale = 1.0" />
+    <title> </title>
+    <!-- Link to Bootstrap CSS from a CDN -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+    <!-- Link to your custom CSS file with the color scheme -->
+    <link rel="stylesheet" href="path_to_custom_styles.css">
+
+    <style>
+
+        /*Define Color Variables*/
+        :root {
+            --primary-color: #6A1B9A; /* Deep purple */
+            --secondary-color: #9C27B0; /* Light purple */
+            --text-color: #000000; /* Black */
+            --background-color: #FFFFFF; /* White */
+        }
+
+        .form-container {
+            background-color: var(--background-color);
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+        }
+        /* Apply the colors to different elements */
+        body {
+            background-color: var(--background-color);
+            color: var(--text-color);
+        }
+
+        h1, h2, h3 {
+            color: var(--primary-color);
+        }
+
+        .button {
+            background-color: var(--primary-color);
+            color: var(--background-color);
+        }
+
+            .button:hover {
+                background-color: var(--secondary-color);
+            }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class=" col-md-6  form-container">
+                <h1 class="text-center">Create a Teacher Profile</h1>
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="FirstName"></label>
+                        <input asp-for="FirstName" type="text" class="form-control" id="teacherName" placeholder="Enter Teacher's Name'" />
+                        <span asp-validation-for="FirstName"></span>
+
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="LastName"></label>
+                        <input asp-for="LastName" type="text" class="form-control" id="teacherLName" placeholder="Enter Teacher's Last Name'" />
+                        <span asp-validation-for="LastName"></span>
+
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Address"></label>
+                        <input asp-for="Address" type="text" class="form-control" id="teacherAdd" placeholder="Enter Teacher's Address" />
+                        <span asp-validation-for="Address"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Grade_Teaching"></label>
+                        <input asp-for="Grade_Teaching" type="text" class="form-control" id="teacherGrade" placeholder="Enter the Grade teaching " />
+                        <span asp-validation-for="Grade_Teaching"></span>
+
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label" asp-for="SchoolId"></label>
+                        <select class="form-control" asp-for="SchoolId" asp-items="ViewBag.School" multiple></select>
+                        <span asp-validation-for="SchoolId" class="text-danger"></span>
+                    </div>
+                    <div cite="form-group">
+                        <label class="control-label" asp-for="SportIds"></label>
+                        <select class="form-control" asp-for="SportIds" asp-items="ViewBag.Sports" multiple></select>
+                        <span class="text-danger" asp-validation-for="SportIds"></span>
+                    </div>
+                    <div cite="form-group">
+                        <label class="control-label" asp-for="ExtraCurricularIds"></label>
+                        <select class="form-control" asp-for="ExtraCurricularIds" asp-items="ViewBag.ExtraCurriculars" multiple></select>
+                        <span class="text-danger" asp-validation-for="ExtraCurricularIds"></span>
+                   </div>
+                    <div class="text-center form-group">
+                        <input type="submit" value="Create" id="createButton" class="btn button" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Link to Bootstrap JavaScript and Popper.js from CDNs -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    @*<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>*@
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

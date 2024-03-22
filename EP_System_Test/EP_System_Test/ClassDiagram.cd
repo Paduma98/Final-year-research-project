@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EP_System_Test.Program">
+    <Position X="39.25" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Startup">
+    <Position X="5" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAgAAACAAAAAA=</HashCode>
+      <FileName>Startup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Models.ApplicationUser">
+    <Position X="19.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ApplicationUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Models.ExtraCurricular">
+    <Position X="22" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAEAgAAAgAAAAAAAAEAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Models\ExtraCurricular.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Models.School">
+    <Position X="2.25" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAyIBQgAgCAQYAIAIAgAIIAAAAAkUlCAECAQASEAgA=</HashCode>
+      <FileName>Models\School.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Models.Sports">
+    <Position X="27.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAqAAAAAAAAgAAAAIAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Models\Sports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Models.Student_Teacher">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Models\Student_Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Models.Students">
+    <Position X="12.5" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CQACAGAACAAAgABAAAAARAgAAAABgAACQABAAAAEAAA=</HashCode>
+      <FileName>Models\Students.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Models.Students_ExtraCurriculars">
+    <Position X="34.25" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Models\Students_ExtraCurriculars.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Models.Students_Sports">
+    <Position X="41.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAEAACAAAACAAA=</HashCode>
+      <FileName>Models\Students_Sports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Models.Teacher">
+    <Position X="9.75" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAGACAAAAgAAAABAMABAAAAAAABACQQAEAQAAAAo=</HashCode>
+      <FileName>Models\Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Models.Teacher_ExtraCurriculars">
+    <Position X="24.75" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAACAAAAAAAAAAAAAAAAgIAAAA=</HashCode>
+      <FileName>Models\Teacher_ExtraCurriculars.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Models.Teacher_Sports">
+    <Position X="17.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAACAAgAAAAA=</HashCode>
+      <FileName>Models\Teacher_Sports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Models.ErrorViewModel">
+    <Position X="44" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ErrorViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Controllers.ExtraCurricularController">
+    <Position X="5.75" Y="12.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\ExtraCurricularController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Controllers.HomeController">
+    <Position X="8.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAIAAAAQAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\HomeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Controllers.SchoolController">
+    <Position X="10.75" Y="12.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAEAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\SchoolController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Controllers.SportsController">
+    <Position X="15.75" Y="12.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAEAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\SportsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Controllers.StudentController">
+    <Position X="13.25" Y="12.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAEAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\StudentController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Controllers.TeacherController">
+    <Position X="18.25" Y="12.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAEAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\TeacherController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Data.Services.SchoolService" BaseTypeListCollapsed="true">
+    <Position X="15.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAABAAAAAAAAAAAAAEAAAAAAgAAAAAAAIA=</HashCode>
+      <FileName>Data\Services\SchoolService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EP_System_Test.Data.Services.SportService" BaseTypeListCollapsed="true">
+    <Position X="37" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAABAAAAAAAAAAAAAEAAAAAAgAAAAAAAIA=</HashCode>
+      <FileName>Data\Services\SportService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EP_System_Test.Data.Services.StudentService" BaseTypeListCollapsed="true">
+    <Position X="29.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAABAAAAAAAAAAAAAEAAAAAAgAAAAAAAIA=</HashCode>
+      <FileName>Data\Services\StudentService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EP_System_Test.Data.Services.TeacherService" BaseTypeListCollapsed="true">
+    <Position X="32" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAABAAAAAAAAAAAAAEAAAAAAgAAAAAAAIA=</HashCode>
+      <FileName>Data\Services\TeacherService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EP_System_Test.Data.AppDbContext">
+    <Position X="9.5" Y="24.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQEAAAAAQAACAAAAAAAAABAAEAAAEEAAQACAAAAAAAA=</HashCode>
+      <FileName>Data\AppDbContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Migrations.Initial">
+    <Position X="6" Y="19.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20231020073721_Initial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Migrations.added_teacher_school">
+    <Position X="0.5" Y="19.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20231021174251_added_teacher_school.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Migrations.Made_ForeignKeys_Nullable">
+    <Position X="3" Y="19.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20231021175058_Made_ForeignKeys_Nullable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EP_System_Test.Migrations.AppDbContextModelSnapshot">
+    <Position X="5.25" Y="9" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Migrations\AppDbContextModelSnapshot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.EntityFrameworkCore.Migrations.Migration">
+    <Position X="3.25" Y="15.5" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.EntityFrameworkCore.DbContext">
+    <Position X="9.25" Y="16.5" Width="2.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Microsoft.EntityFrameworkCore.Infrastructure.ModelSnapshot">
+    <Position X="5.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object">
+    <Position X="23" Y="0.5" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.AspNetCore.Mvc.Controller">
+    <Position X="11.75" Y="8.5" Width="2.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

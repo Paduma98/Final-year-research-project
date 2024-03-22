@@ -1,0 +1,68 @@
+﻿@*Define Model*@
+
+@model Teacher
+
+@*Define View Data*@
+@{
+    ViewData["Title"] = "Details of a Student";
+}
+
+
+
+@*Write Code*@
+
+<head>
+
+    <link href="~/studentassets/assets/style.css" rel="stylesheet" />
+    <!-- ...............Font Awesome Link................. -->
+    <link href="~/studentassets/assets/fontawesome-free-6.3.0-web/css/all.css" rel="stylesheet" />
+    <!-- ...............Swiper Slider Link.................. -->
+    <link href="~/studentassets/assets/swiper/swiper-bundle.min.css" rel="stylesheet" />
+
+</head>
+
+
+<center>
+    <div class="Man col-4">
+        <div class="card__content">
+            <div class="swiper-wrapper">
+                <article class="card__article swiper-slide">
+                    <div class="card__image">
+                        <img src="~/studentassets/assets/images/img/f4.jpg" />
+                        <div class="card__shadow"></div>
+                    </div>
+
+                    <div class="card__data">
+                        <h3 class="card__name">@Model.FirstName</h3>
+                        <p class="card__description">
+                            Passionate about development and design,
+                            I carry out projects at the request of users.
+                        </p>
+                        <div class="VM">
+                            
+                        @*     <a asp-action="Index" class="card__button">Show All</a> *@
+                    @*     <center>
+                            <form asp-action="Delete">
+                                <input type="hidden" asp-for="Id" />
+                                <input type="submit" value="Confirm" class="btn btn-danger float-right" />
+                            </form>
+                            </center> *@
+                            <div class="VM">
+                               @*  <a asp-action="Edit" class="card__button2" asp-route-id="@Model.Id">Edit</a>
+                                <a asp-action="Index" class="card__button">Show All</a>
+
+                                <a asp-action="Delete" asp-route-id="@Model.Id" class="card__button3">Delete</a> *@
+                                <form asp-action="Delete">
+                                    <input type="hidden" asp-for="Id" />
+                                    <input type="submit" value="Confirm" class="card__button3" />
+                                </form>
+                            </div>
+                          
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </div>
+</center>
+<div class="row p-5">     </div>

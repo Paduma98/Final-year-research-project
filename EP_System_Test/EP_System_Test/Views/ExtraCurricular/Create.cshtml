@@ -1,0 +1,75 @@
+﻿@model ExtraCurricular
+@{
+    ViewData["Title"] = "Add a new Sport";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title><</title>
+    <style>
+        /* Additional custom CSS styles can be added here */
+        .form-container {
+            background-color: var(--background-color);
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Define the color variables */
+        :root {
+            --primary-color: #6A1B9A; /* Deep purple */
+            --secondary-color: #9C27B0; /* Light purple */
+            --text-color: #000000; /* Black */
+            --background-color: #FFFFFF; /* White */
+        }
+
+        /* Apply the colors to different elements */
+        body {
+            background-color: var(--background-color);
+            color: var(--text-color);
+        }
+
+        h1, h2, h3 {
+            color: var(--primary-color);
+        }
+
+        .button {
+            background-color: var(--primary-color);
+            color: var(--background-color);
+        }
+
+            .button:hover {
+                background-color: var(--secondary-color);
+            }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6 form-container">
+                <h1 class="text-center">Add a new Society</h1>
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="Society_Name"></label>
+                        <input asp-for="Society_Name" type="text" class="form-control" id="sport_name" placeholder="Enter the Sport Name" />
+                        <span asp-validation-for="Society_Name"></span>
+
+                    </div>
+
+                    <div class="form-group">
+                        <input type="submit" value="Add" id="createButton" class="btn button" />
+                    </div>
+                </form>
+            </div>
+
+        </div>
+
+    </div>
+
+
+</body>
+
+</html>
